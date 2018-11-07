@@ -4,3 +4,41 @@
 a {
     color: #70579D;
 }
+body{
+    background-color: black;
+    color:white
+}
+.article-name {
+    text-align: center;
+    font-family: fantasy;
+    font-size: xx-large;
+    color: darkmagenta;
+}
+.article-overview{
+    text-align: right;
+    font-size: x-small;
+    color:lightgrey;
+    display: block;
+}
+.text-muted{
+    color:grey;
+}
+.pipe{
+    color:darkgray;
+}
+img {
+    height: 225px;
+    width: 285px;
+    text-align: left;
+}
+.lister-list{
+    text-align: center;
+}
+.lister-item-summary{
+    color: white;
+    text-align: center;
+
+}
+a{
+    color: darkred;
+}
